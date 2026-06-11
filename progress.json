@@ -56,5 +56,17 @@
     ],
     "updatedAt": "2026-06-11T03:44:43.195Z",
     "difficulty": "Easy"
+  },
+  "container-with-most-water": {
+    "id": 11,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "updatedAt": "2026-06-11T03:44:54.453Z",
+    "difficulty": "Medium"
   }
 }
