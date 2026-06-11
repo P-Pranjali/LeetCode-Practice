@@ -530,5 +530,16 @@
     ],
     "updatedAt": "2026-06-11T04:01:58.102Z",
     "difficulty": "Medium"
+  },
+  "reverse-vowels-of-a-string": {
+    "id": 345,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "updatedAt": "2026-06-11T04:02:07.972Z",
+    "difficulty": "Easy"
   }
 }
