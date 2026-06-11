@@ -206,5 +206,16 @@
     ],
     "updatedAt": "2026-06-11T03:47:13.746Z",
     "difficulty": "Easy"
+  },
+  "rotated-digits": {
+    "id": 804,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Math",
+      "Dynamic Programming"
+    ],
+    "updatedAt": "2026-06-11T03:47:25.260Z",
+    "difficulty": "Medium"
   }
 }
