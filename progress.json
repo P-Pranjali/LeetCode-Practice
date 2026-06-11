@@ -334,5 +334,16 @@
     ],
     "updatedAt": "2026-06-11T03:49:02.000Z",
     "difficulty": "Medium"
+  },
+  "maximum-average-subarray-i": {
+    "id": 643,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Sliding Window"
+    ],
+    "updatedAt": "2026-06-11T03:49:11.822Z",
+    "difficulty": "Easy"
   }
 }
