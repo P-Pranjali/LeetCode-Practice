@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 45
+Total Problems: 46
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -20,6 +20,7 @@ Total Problems: 45
 - [0238 product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [0283 move-zeroes](https://leetcode.com/problems/move-zeroes/description/)
 - [0334 increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)
+- [0345 reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 - [0392 is-subsequence](https://leetcode.com/problems/is-subsequence/description/)
 - [0443 string-compression](https://leetcode.com/problems/string-compression/description/)
 - [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
