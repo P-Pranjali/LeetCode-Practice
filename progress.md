@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 32
+📚 Total Solved: 33
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (32)
+## 🟡 Needs Review (33)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -34,6 +34,7 @@
 - [1840 minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/)
 - [1972 rotating-the-box](https://leetcode.com/problems/rotating-the-box/description/)
 - [2160 minimum-operations-to-make-a-uni-value-grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
+- [2199 two-furthest-houses-with-different-colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/)
 - [2550 words-within-two-edits-of-dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/)
 - [2721 sum-of-distances](https://leetcode.com/problems/sum-of-distances/description/)
 - [3019 furthest-point-from-origin](https://leetcode.com/problems/furthest-point-from-origin/description/)
