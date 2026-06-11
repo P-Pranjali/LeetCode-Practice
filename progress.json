@@ -586,5 +586,17 @@
     ],
     "updatedAt": "2026-06-11T04:02:51.889Z",
     "difficulty": "Medium"
+  },
+  "maximum-subarray": {
+    "id": 53,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "updatedAt": "2026-06-11T04:03:02.741Z",
+    "difficulty": "Medium"
   }
 }
