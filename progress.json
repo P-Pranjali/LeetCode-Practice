@@ -497,5 +497,16 @@
     ],
     "updatedAt": "2026-06-11T03:51:32.946Z",
     "difficulty": "Easy"
+  },
+  "increasing-triplet-subsequence": {
+    "id": 334,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "updatedAt": "2026-06-11T03:51:43.803Z",
+    "difficulty": "Medium"
   }
 }
