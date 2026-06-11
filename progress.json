@@ -322,5 +322,17 @@
     ],
     "updatedAt": "2026-06-11T03:48:50.747Z",
     "difficulty": "Medium"
+  },
+  "words-within-two-edits-of-dictionary": {
+    "id": 2550,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "String",
+      "Trie"
+    ],
+    "updatedAt": "2026-06-11T03:49:02.000Z",
+    "difficulty": "Medium"
   }
 }
