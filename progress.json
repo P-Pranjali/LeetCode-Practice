@@ -271,5 +271,19 @@
     ],
     "updatedAt": "2026-06-11T03:48:08.836Z",
     "difficulty": "Medium"
+  },
+  "maximize-the-distance-between-points-on-a-square": {
+    "id": 3781,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Geometry",
+      "Sorting"
+    ],
+    "updatedAt": "2026-06-11T03:48:20.416Z",
+    "difficulty": "Hard"
   }
 }
