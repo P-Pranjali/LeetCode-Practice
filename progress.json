@@ -135,5 +135,19 @@
     ],
     "updatedAt": "2026-06-11T03:46:06.358Z",
     "difficulty": "Medium"
+  },
+  "earliest-finish-time-for-land-and-water-rides-i": {
+    "id": 3965,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ],
+    "updatedAt": "2026-06-11T03:46:17.101Z",
+    "difficulty": "Easy"
   }
 }
