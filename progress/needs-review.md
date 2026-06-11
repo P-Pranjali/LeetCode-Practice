@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 47
+Total Problems: 48
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -23,6 +23,7 @@ Total Problems: 47
 - [0345 reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 - [0392 is-subsequence](https://leetcode.com/problems/is-subsequence/description/)
 - [0443 string-compression](https://leetcode.com/problems/string-compression/description/)
+- [0605 can-place-flowers](https://leetcode.com/problems/can-place-flowers/description/)
 - [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 - [0804 rotated-digits](https://leetcode.com/problems/rotated-digits/description/)
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
