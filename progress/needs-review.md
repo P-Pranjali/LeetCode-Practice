@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 35
+Total Problems: 36
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -17,6 +17,7 @@ Total Problems: 35
 - [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 - [0804 rotated-digits](https://leetcode.com/problems/rotated-digits/description/)
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
+- [0888 mirror-reflection](https://leetcode.com/problems/mirror-reflection/description/)
 - [1507 check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
 - [1663 detect-cycles-in-2d-grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
 - [1756 minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
