@@ -195,5 +195,16 @@
     ],
     "updatedAt": "2026-06-11T03:47:01.757Z",
     "difficulty": "Medium"
+  },
+  "rotate-string": {
+    "id": 812,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "String",
+      "String Matching"
+    ],
+    "updatedAt": "2026-06-11T03:47:13.746Z",
+    "difficulty": "Easy"
   }
 }
