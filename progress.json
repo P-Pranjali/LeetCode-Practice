@@ -652,5 +652,16 @@
     ],
     "updatedAt": "2026-06-11T04:03:57.237Z",
     "difficulty": "Easy"
+  },
+  "merge-strings-alternately": {
+    "id": 1894,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "updatedAt": "2026-06-11T04:04:07.897Z",
+    "difficulty": "Easy"
   }
 }
