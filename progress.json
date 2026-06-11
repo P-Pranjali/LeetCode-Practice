@@ -243,5 +243,19 @@
     ],
     "updatedAt": "2026-06-11T03:47:45.984Z",
     "difficulty": "Medium"
+  },
+  "check-if-there-is-a-valid-path-in-a-grid": {
+    "id": 1507,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "updatedAt": "2026-06-11T03:47:56.614Z",
+    "difficulty": "Medium"
   }
 }
