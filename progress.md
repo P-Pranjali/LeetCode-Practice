@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 46
+📚 Total Solved: 47
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (46)
+## 🟡 Needs Review (47)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -56,6 +56,7 @@
 - [3958 minimum-removals-to-balance-array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
 - [3965 earliest-finish-time-for-land-and-water-rides-i](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
 - [3981 jump-game-ix](https://leetcode.com/problems/jump-game-ix/description/)
+- [4119 minimum-distance-between-three-equal-elements-ii](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/description/)
 - [4168 mirror-distance-of-an-integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/)
 - [4284 smallest-stable-index-i](https://leetcode.com/problems/smallest-stable-index-i/description/)
 
