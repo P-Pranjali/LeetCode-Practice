@@ -100,5 +100,15 @@
     ],
     "updatedAt": "2026-06-11T03:45:32.357Z",
     "difficulty": "Easy"
+  },
+  "trionic-array-i": {
+    "id": 3952,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array"
+    ],
+    "updatedAt": "2026-06-11T03:45:43.610Z",
+    "difficulty": "Easy"
   }
 }
