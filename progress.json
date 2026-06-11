@@ -699,5 +699,18 @@
     ],
     "updatedAt": "2026-06-11T04:04:44.146Z",
     "difficulty": "Easy"
+  },
+  "set-mismatch": {
+    "id": 645,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "updatedAt": "2026-06-11T04:04:55.828Z",
+    "difficulty": "Easy"
   }
 }
