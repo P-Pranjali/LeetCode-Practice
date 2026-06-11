@@ -732,5 +732,16 @@
     ],
     "updatedAt": "2026-06-11T04:05:18.906Z",
     "difficulty": "Easy"
+  },
+  "concatenation-of-array": {
+    "id": 2058,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Simulation"
+    ],
+    "updatedAt": "2026-06-11T04:05:30.483Z",
+    "difficulty": "Easy"
   }
 }
