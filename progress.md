@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 49
+📚 Total Solved: 50
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (49)
+## 🟡 Needs Review (50)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -26,6 +26,7 @@
 - [0074 search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [0150 evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - [0151 reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+- [0153 find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [0169 majority-element](https://leetcode.com/problems/majority-element/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0238 product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)
