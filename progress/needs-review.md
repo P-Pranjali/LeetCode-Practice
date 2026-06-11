@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 19
+Total Problems: 20
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -17,6 +17,7 @@ Total Problems: 19
 - [1756 minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
 - [1972 rotating-the-box](https://leetcode.com/problems/rotating-the-box/description/)
 - [3263 divide-an-array-into-subarrays-with-minimum-cost-i](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
+- [3470 maximum-score-from-grid-operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/)
 - [3952 trionic-array-i](https://leetcode.com/problems/trionic-array-i/description/)
 - [3958 minimum-removals-to-balance-array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
 - [3965 earliest-finish-time-for-land-and-water-rides-i](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
