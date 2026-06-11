@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 29
+📚 Total Solved: 30
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (29)
+## 🟡 Needs Review (30)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -29,6 +29,7 @@
 - [1507 check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
 - [1663 detect-cycles-in-2d-grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
 - [1756 minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
+- [1798 max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
 - [1972 rotating-the-box](https://leetcode.com/problems/rotating-the-box/description/)
 - [2160 minimum-operations-to-make-a-uni-value-grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 - [2550 words-within-two-edits-of-dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/)
