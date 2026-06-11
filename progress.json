@@ -345,5 +345,18 @@
     ],
     "updatedAt": "2026-06-11T03:49:11.822Z",
     "difficulty": "Easy"
+  },
+  "max-number-of-k-sum-pairs": {
+    "id": 1798,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "updatedAt": "2026-06-11T03:49:21.983Z",
+    "difficulty": "Medium"
   }
 }
