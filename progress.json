@@ -404,5 +404,17 @@
     ],
     "updatedAt": "2026-06-11T03:50:07.055Z",
     "difficulty": "Easy"
+  },
+  "maximum-distance-between-a-pair-of-values": {
+    "id": 1984,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "updatedAt": "2026-06-11T03:50:19.318Z",
+    "difficulty": "Medium"
   }
 }
