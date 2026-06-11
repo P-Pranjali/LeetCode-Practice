@@ -508,5 +508,16 @@
     ],
     "updatedAt": "2026-06-11T03:51:43.803Z",
     "difficulty": "Medium"
+  },
+  "product-of-array-except-self": {
+    "id": 238,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "updatedAt": "2026-06-11T03:51:55.377Z",
+    "difficulty": "Medium"
   }
 }
