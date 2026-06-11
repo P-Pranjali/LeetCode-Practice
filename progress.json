@@ -21,5 +21,17 @@
     ],
     "updatedAt": "2026-06-11T03:44:10.208Z",
     "difficulty": "Hard"
+  },
+  "longest-substring-without-repeating-characters": {
+    "id": 3,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "updatedAt": "2026-06-11T03:44:20.608Z",
+    "difficulty": "Medium"
   }
 }
