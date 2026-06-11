@@ -257,5 +257,19 @@
     ],
     "updatedAt": "2026-06-11T03:47:56.614Z",
     "difficulty": "Medium"
+  },
+  "detect-cycles-in-2d-grid": {
+    "id": 1663,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "updatedAt": "2026-06-11T03:48:08.836Z",
+    "difficulty": "Medium"
   }
 }
