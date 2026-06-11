@@ -183,5 +183,17 @@
     ],
     "updatedAt": "2026-06-11T03:46:51.225Z",
     "difficulty": "Medium"
+  },
+  "rotate-image": {
+    "id": 48,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ],
+    "updatedAt": "2026-06-11T03:47:01.757Z",
+    "difficulty": "Medium"
   }
 }
