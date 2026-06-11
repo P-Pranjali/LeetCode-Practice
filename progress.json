@@ -621,5 +621,15 @@
     ],
     "updatedAt": "2026-06-11T04:03:25.112Z",
     "difficulty": "Medium"
+  },
+  "check-if-binary-string-has-at-most-one-segment-of-ones": {
+    "id": 1910,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "String"
+    ],
+    "updatedAt": "2026-06-11T04:03:35.541Z",
+    "difficulty": "Easy"
   }
 }
