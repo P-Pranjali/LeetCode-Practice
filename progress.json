@@ -428,5 +428,15 @@
     ],
     "updatedAt": "2026-06-11T03:50:29.858Z",
     "difficulty": "Medium"
+  },
+  "mirror-distance-of-an-integer": {
+    "id": 4168,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Math"
+    ],
+    "updatedAt": "2026-06-11T03:50:40.510Z",
+    "difficulty": "Easy"
   }
 }
