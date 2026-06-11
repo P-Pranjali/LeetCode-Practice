@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 34
+📚 Total Solved: 35
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (34)
+## 🟡 Needs Review (35)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -33,6 +33,7 @@
 - [1798 max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
 - [1840 minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/)
 - [1972 rotating-the-box](https://leetcode.com/problems/rotating-the-box/description/)
+- [1984 maximum-distance-between-a-pair-of-values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/)
 - [2160 minimum-operations-to-make-a-uni-value-grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 - [2199 two-furthest-houses-with-different-colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/)
 - [2550 words-within-two-edits-of-dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/)
