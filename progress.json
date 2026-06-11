@@ -722,5 +722,15 @@
     ],
     "updatedAt": "2026-06-11T04:05:06.958Z",
     "difficulty": "Easy"
+  },
+  "shuffle-the-array": {
+    "id": 1580,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array"
+    ],
+    "updatedAt": "2026-06-11T04:05:18.906Z",
+    "difficulty": "Easy"
   }
 }
