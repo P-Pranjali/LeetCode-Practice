@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 18
+📚 Total Solved: 19
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (18)
+## 🟡 Needs Review (19)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -22,6 +22,7 @@
 - [0033 search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [0048 rotate-image](https://leetcode.com/problems/rotate-image/description/)
 - [0061 rotate-list](https://leetcode.com/problems/rotate-list/description/)
+- [0804 rotated-digits](https://leetcode.com/problems/rotated-digits/description/)
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
 - [1756 minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
 - [1972 rotating-the-box](https://leetcode.com/problems/rotating-the-box/description/)
