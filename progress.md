@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 51
+📚 Total Solved: 52
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (51)
+## 🟡 Needs Review (52)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -29,6 +29,7 @@
 - [0151 reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 - [0153 find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [0169 majority-element](https://leetcode.com/problems/majority-element/description/)
+- [0190 reverse-bits](https://leetcode.com/problems/reverse-bits/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0238 product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [0283 move-zeroes](https://leetcode.com/problems/move-zeroes/description/)
