@@ -78,5 +78,15 @@
     ],
     "updatedAt": "2026-06-11T03:45:05.421Z",
     "difficulty": "Easy"
+  },
+  "reverse-integer": {
+    "id": 7,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Math"
+    ],
+    "updatedAt": "2026-06-11T03:45:18.435Z",
+    "difficulty": "Medium"
   }
 }
