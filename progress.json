@@ -575,5 +575,16 @@
     ],
     "updatedAt": "2026-06-11T04:02:41.152Z",
     "difficulty": "Medium"
+  },
+  "find-minimum-in-rotated-sorted-array": {
+    "id": 153,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "updatedAt": "2026-06-11T04:02:51.889Z",
+    "difficulty": "Medium"
   }
 }
