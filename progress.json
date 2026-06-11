@@ -9,5 +9,17 @@
     ],
     "updatedAt": "2026-06-11T03:43:58.643Z",
     "difficulty": "Easy"
+  },
+  "median-of-two-sorted-arrays": {
+    "id": 4,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ],
+    "updatedAt": "2026-06-11T03:44:10.208Z",
+    "difficulty": "Hard"
   }
 }
