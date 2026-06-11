@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 64
+Total Problems: 63
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -43,7 +43,6 @@ Total Problems: 64
 - [1552 build-an-array-with-stack-operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
 - [1580 shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/description/)
 - [1663 detect-cycles-in-2d-grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
-- [1756 minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
 - [1798 max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
 - [1840 minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/)
 - [1894 merge-strings-alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
