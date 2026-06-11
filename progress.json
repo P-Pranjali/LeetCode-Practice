@@ -463,5 +463,16 @@
     ],
     "updatedAt": "2026-06-11T03:51:00.893Z",
     "difficulty": "Medium"
+  },
+  "string-compression": {
+    "id": 443,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "updatedAt": "2026-06-11T03:51:11.339Z",
+    "difficulty": "Medium"
   }
 }
