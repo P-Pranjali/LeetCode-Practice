@@ -382,5 +382,16 @@
     ],
     "updatedAt": "2026-06-11T03:49:45.520Z",
     "difficulty": "Medium"
+  },
+  "two-furthest-houses-with-different-colors": {
+    "id": 2199,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "updatedAt": "2026-06-11T03:49:56.532Z",
+    "difficulty": "Easy"
   }
 }
