@@ -609,5 +609,17 @@
     ],
     "updatedAt": "2026-06-11T04:03:14.101Z",
     "difficulty": "Easy"
+  },
+  "3sum": {
+    "id": 15,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "updatedAt": "2026-06-11T04:03:25.112Z",
+    "difficulty": "Medium"
   }
 }
