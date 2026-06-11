@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 42
+📚 Total Solved: 43
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (42)
+## 🟡 Needs Review (43)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -27,6 +27,7 @@
 - [0169 majority-element](https://leetcode.com/problems/majority-element/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0283 move-zeroes](https://leetcode.com/problems/move-zeroes/description/)
+- [0334 increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)
 - [0392 is-subsequence](https://leetcode.com/problems/is-subsequence/description/)
 - [0443 string-compression](https://leetcode.com/problems/string-compression/description/)
 - [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
