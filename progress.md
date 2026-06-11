@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 62
+📚 Total Solved: 63
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (62)
+## 🟡 Needs Review (63)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -51,6 +51,7 @@
 - [1507 check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
 - [1528 kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 - [1552 build-an-array-with-stack-operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
+- [1580 shuffle-the-array](https://leetcode.com/problems/shuffle-the-array/description/)
 - [1663 detect-cycles-in-2d-grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
 - [1756 minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
 - [1798 max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
