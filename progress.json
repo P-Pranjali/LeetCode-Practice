@@ -486,5 +486,16 @@
     ],
     "updatedAt": "2026-06-11T03:51:22.193Z",
     "difficulty": "Easy"
+  },
+  "move-zeroes": {
+    "id": 283,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "updatedAt": "2026-06-11T03:51:32.946Z",
+    "difficulty": "Easy"
   }
 }
