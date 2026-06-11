@@ -519,5 +519,16 @@
     ],
     "updatedAt": "2026-06-11T03:51:55.377Z",
     "difficulty": "Medium"
+  },
+  "reverse-words-in-a-string": {
+    "id": 151,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "updatedAt": "2026-06-11T04:01:58.102Z",
+    "difficulty": "Medium"
   }
 }
