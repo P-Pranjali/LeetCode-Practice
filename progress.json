@@ -68,5 +68,15 @@
     ],
     "updatedAt": "2026-06-11T03:44:54.453Z",
     "difficulty": "Medium"
+  },
+  "palindrome-number": {
+    "id": 9,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Math"
+    ],
+    "updatedAt": "2026-06-11T03:45:05.421Z",
+    "difficulty": "Easy"
   }
 }
