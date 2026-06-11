@@ -686,5 +686,18 @@
     ],
     "updatedAt": "2026-06-11T04:04:32.158Z",
     "difficulty": "Easy"
+  },
+  "how-many-numbers-are-smaller-than-the-current-number": {
+    "id": 1482,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "updatedAt": "2026-06-11T04:04:44.146Z",
+    "difficulty": "Easy"
   }
 }
