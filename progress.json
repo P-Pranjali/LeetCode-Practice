@@ -631,5 +631,15 @@
     ],
     "updatedAt": "2026-06-11T04:03:35.541Z",
     "difficulty": "Easy"
+  },
+  "kids-with-the-greatest-number-of-candies": {
+    "id": 1528,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array"
+    ],
+    "updatedAt": "2026-06-11T04:03:46.439Z",
+    "difficulty": "Easy"
   }
 }
