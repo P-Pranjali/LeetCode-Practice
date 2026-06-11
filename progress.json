@@ -675,5 +675,16 @@
     ],
     "updatedAt": "2026-06-11T04:04:19.256Z",
     "difficulty": "Medium"
+  },
+  "find-all-numbers-disappeared-in-an-array": {
+    "id": 448,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "updatedAt": "2026-06-11T04:04:32.158Z",
+    "difficulty": "Easy"
   }
 }
