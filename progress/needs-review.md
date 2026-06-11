@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 30
+Total Problems: 31
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -13,6 +13,7 @@ Total Problems: 30
 - [0048 rotate-image](https://leetcode.com/problems/rotate-image/description/)
 - [0061 rotate-list](https://leetcode.com/problems/rotate-list/description/)
 - [0169 majority-element](https://leetcode.com/problems/majority-element/description/)
+- [0392 is-subsequence](https://leetcode.com/problems/is-subsequence/description/)
 - [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 - [0804 rotated-digits](https://leetcode.com/problems/rotated-digits/description/)
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
