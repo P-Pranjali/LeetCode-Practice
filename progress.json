@@ -541,5 +541,16 @@
     ],
     "updatedAt": "2026-06-11T04:02:07.972Z",
     "difficulty": "Easy"
+  },
+  "minimum-distance-between-three-equal-elements-ii": {
+    "id": 4119,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "updatedAt": "2026-06-11T04:02:18.682Z",
+    "difficulty": "Medium"
   }
 }
