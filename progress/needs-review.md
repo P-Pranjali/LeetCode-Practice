@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 24
+Total Problems: 25
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -12,6 +12,7 @@ Total Problems: 24
 - [0033 search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [0048 rotate-image](https://leetcode.com/problems/rotate-image/description/)
 - [0061 rotate-list](https://leetcode.com/problems/rotate-list/description/)
+- [0169 majority-element](https://leetcode.com/problems/majority-element/description/)
 - [0804 rotated-digits](https://leetcode.com/problems/rotated-digits/description/)
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
 - [1507 check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
