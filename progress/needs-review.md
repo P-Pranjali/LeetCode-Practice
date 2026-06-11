@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 54
+Total Problems: 55
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -34,6 +34,7 @@ Total Problems: 54
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
 - [0888 mirror-reflection](https://leetcode.com/problems/mirror-reflection/description/)
 - [1507 check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
+- [1528 kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 - [1663 detect-cycles-in-2d-grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
 - [1756 minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)
 - [1798 max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)
