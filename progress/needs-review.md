@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 23
+Total Problems: 24
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -21,6 +21,7 @@ Total Problems: 23
 - [2160 minimum-operations-to-make-a-uni-value-grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/)
 - [3263 divide-an-array-into-subarrays-with-minimum-cost-i](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/)
 - [3470 maximum-score-from-grid-operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/)
+- [3781 maximize-the-distance-between-points-on-a-square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/)
 - [3952 trionic-array-i](https://leetcode.com/problems/trionic-array-i/description/)
 - [3958 minimum-removals-to-balance-array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
 - [3965 earliest-finish-time-for-land-and-water-rides-i](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
