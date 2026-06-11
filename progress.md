@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 13
+📚 Total Solved: 14
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (13)
+## 🟡 Needs Review (14)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -25,6 +25,7 @@
 - [3952 trionic-array-i](https://leetcode.com/problems/trionic-array-i/description/)
 - [3958 minimum-removals-to-balance-array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
 - [3965 earliest-finish-time-for-land-and-water-rides-i](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/)
+- [3981 jump-game-ix](https://leetcode.com/problems/jump-game-ix/description/)
 
 ---
 
