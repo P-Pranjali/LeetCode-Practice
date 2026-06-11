@@ -217,5 +217,18 @@
     ],
     "updatedAt": "2026-06-11T03:47:25.260Z",
     "difficulty": "Medium"
+  },
+  "maximum-score-from-grid-operations": {
+    "id": 3470,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix",
+      "Prefix Sum"
+    ],
+    "updatedAt": "2026-06-11T03:47:35.857Z",
+    "difficulty": "Hard"
   }
 }
