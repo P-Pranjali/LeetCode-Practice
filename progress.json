@@ -172,5 +172,16 @@
     ],
     "updatedAt": "2026-06-11T03:46:39.965Z",
     "difficulty": "Medium"
+  },
+  "rotate-list": {
+    "id": 61,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "updatedAt": "2026-06-11T03:46:51.225Z",
+    "difficulty": "Medium"
   }
 }
