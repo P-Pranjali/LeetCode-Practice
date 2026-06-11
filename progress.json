@@ -110,5 +110,18 @@
     ],
     "updatedAt": "2026-06-11T03:45:43.610Z",
     "difficulty": "Easy"
+  },
+  "minimum-removals-to-balance-array": {
+    "id": 3958,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting"
+    ],
+    "updatedAt": "2026-06-11T03:45:55.186Z",
+    "difficulty": "Medium"
   }
 }
