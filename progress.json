@@ -230,5 +230,18 @@
     ],
     "updatedAt": "2026-06-11T03:47:35.857Z",
     "difficulty": "Hard"
+  },
+  "minimum-operations-to-make-a-uni-value-grid": {
+    "id": 2160,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Matrix"
+    ],
+    "updatedAt": "2026-06-11T03:47:45.984Z",
+    "difficulty": "Medium"
   }
 }
