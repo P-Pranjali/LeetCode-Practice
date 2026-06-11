@@ -552,5 +552,16 @@
     ],
     "updatedAt": "2026-06-11T04:02:18.682Z",
     "difficulty": "Medium"
+  },
+  "can-place-flowers": {
+    "id": 605,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "updatedAt": "2026-06-11T04:02:29.288Z",
+    "difficulty": "Easy"
   }
 }
