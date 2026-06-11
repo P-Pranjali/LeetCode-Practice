@@ -641,5 +641,16 @@
     ],
     "updatedAt": "2026-06-11T04:03:46.439Z",
     "difficulty": "Easy"
+  },
+  "greatest-common-divisor-of-strings": {
+    "id": 1146,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Math",
+      "String"
+    ],
+    "updatedAt": "2026-06-11T04:03:57.237Z",
+    "difficulty": "Easy"
   }
 }
