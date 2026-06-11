@@ -1,0 +1,13 @@
+{
+  "two-sum": {
+    "id": 1,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "updatedAt": "2026-06-11T03:43:58.643Z",
+    "difficulty": "Easy"
+  }
+}
