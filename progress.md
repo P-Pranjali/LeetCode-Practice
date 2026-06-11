@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 59
+📚 Total Solved: 60
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🟡 Needs Review (59)
+## 🟡 Needs Review (60)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -45,6 +45,7 @@
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
 - [0888 mirror-reflection](https://leetcode.com/problems/mirror-reflection/description/)
 - [1146 greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
+- [1482 how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 - [1507 check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
 - [1528 kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 - [1552 build-an-array-with-stack-operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
