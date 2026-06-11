@@ -712,5 +712,15 @@
     ],
     "updatedAt": "2026-06-11T04:04:55.828Z",
     "difficulty": "Easy"
+  },
+  "max-consecutive-ones": {
+    "id": 485,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array"
+    ],
+    "updatedAt": "2026-06-11T04:05:06.958Z",
+    "difficulty": "Easy"
   }
 }
