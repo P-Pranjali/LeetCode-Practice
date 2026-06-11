@@ -33,5 +33,16 @@
     ],
     "updatedAt": "2026-06-11T03:44:20.608Z",
     "difficulty": "Medium"
+  },
+  "search-in-rotated-sorted-array": {
+    "id": 33,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "updatedAt": "2026-06-11T03:44:31.308Z",
+    "difficulty": "Medium"
   }
 }
