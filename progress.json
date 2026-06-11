@@ -450,5 +450,18 @@
     ],
     "updatedAt": "2026-06-11T03:50:50.545Z",
     "difficulty": "Medium"
+  },
+  "group-anagrams": {
+    "id": 49,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "updatedAt": "2026-06-11T03:51:00.893Z",
+    "difficulty": "Medium"
   }
 }
