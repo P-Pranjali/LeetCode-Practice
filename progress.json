@@ -299,5 +299,16 @@
     ],
     "updatedAt": "2026-06-11T03:48:30.958Z",
     "difficulty": "Easy"
+  },
+  "furthest-point-from-origin": {
+    "id": 3019,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "String",
+      "Counting"
+    ],
+    "updatedAt": "2026-06-11T03:48:41.256Z",
+    "difficulty": "Easy"
   }
 }
