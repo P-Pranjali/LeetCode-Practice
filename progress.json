@@ -160,5 +160,17 @@
     ],
     "updatedAt": "2026-06-11T03:46:27.753Z",
     "difficulty": "Medium"
+  },
+  "rotating-the-box": {
+    "id": 1972,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Matrix"
+    ],
+    "updatedAt": "2026-06-11T03:46:39.965Z",
+    "difficulty": "Medium"
   }
 }
