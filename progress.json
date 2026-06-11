@@ -598,5 +598,16 @@
     ],
     "updatedAt": "2026-06-11T04:03:02.741Z",
     "difficulty": "Medium"
+  },
+  "reverse-bits": {
+    "id": 190,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ],
+    "updatedAt": "2026-06-11T04:03:14.101Z",
+    "difficulty": "Easy"
   }
 }
