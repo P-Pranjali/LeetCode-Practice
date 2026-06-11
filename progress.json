@@ -663,5 +663,17 @@
     ],
     "updatedAt": "2026-06-11T04:04:07.897Z",
     "difficulty": "Easy"
+  },
+  "build-an-array-with-stack-operations": {
+    "id": 1552,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "updatedAt": "2026-06-11T04:04:19.256Z",
+    "difficulty": "Medium"
   }
 }
