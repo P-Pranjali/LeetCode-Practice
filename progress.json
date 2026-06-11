@@ -149,5 +149,16 @@
     ],
     "updatedAt": "2026-06-11T03:46:17.101Z",
     "difficulty": "Easy"
+  },
+  "jump-game-ix": {
+    "id": 3981,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "updatedAt": "2026-06-11T03:46:27.753Z",
+    "difficulty": "Medium"
   }
 }
