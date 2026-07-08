@@ -126,14 +126,14 @@
   },
   "minimum-deletions-to-make-string-balanced": {
     "id": 1756,
-    "status": "understood",
+    "status": "needs_review",
     "language": "Java",
     "topics": [
       "String",
       "Dynamic Programming",
       "Stack"
     ],
-    "updatedAt": "2026-06-11T07:15:55.985Z",
+    "updatedAt": "2026-07-08T05:52:20.021Z",
     "difficulty": "Medium"
   },
   "earliest-finish-time-for-land-and-water-rides-i": {
