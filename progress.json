@@ -755,5 +755,22 @@
     ],
     "updatedAt": "2026-07-08T05:53:53.066Z",
     "difficulty": "Medium"
+  },
+  "path-existence-queries-in-a-graph-ii": {
+    "id": 3852,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Graph Theory",
+      "Sorting"
+    ],
+    "updatedAt": "2026-07-10T10:09:40.727Z",
+    "difficulty": "Hard"
   }
 }
