@@ -1,12 +1,12 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 65
+📚 Total Solved: 66
 
 ---
 
-## 🟢 Understood (0)
+## 🟢 Understood (1)
 
-
+- [3852 path-existence-queries-in-a-graph-ii](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/)
 
 ---
 
