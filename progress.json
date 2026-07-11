@@ -772,5 +772,16 @@
     ],
     "updatedAt": "2026-07-10T10:09:40.727Z",
     "difficulty": "Hard"
+  },
+  "best-time-to-buy-and-sell-stock": {
+    "id": 121,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "updatedAt": "2026-07-11T04:53:54.787Z",
+    "difficulty": "Easy"
   }
 }
