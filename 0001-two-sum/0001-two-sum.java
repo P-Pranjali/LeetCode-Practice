@@ -3,17 +3,21 @@ class Solution {
 
         int[] answer = new int[2];
 
-        for(int i = 0; i < nums.length; i++){
+       HashMap<Integer, Integer>  map = new HashMap<>();
 
-            for(int j = 1; j < nums.length; j++){
+       for(int i = 0; i <nums.length; i++){
+        int secondNumber = target - nums[i];
 
-                if(nums[i] + nums[j] == target  && i != j){
+        if(map.containsKey(secondNumber)){
 
-                    answer[0] = i;
-                    answer[1] = j;
-                }
-            }
+            answer[0] = i;
+            answer[1] = map.get(secondNumber);
         }
+        map.put(nums[i], i);
+
+
+       }
         return answer;
     }
 }
+
