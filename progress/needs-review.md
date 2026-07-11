@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 63
+Total Problems: 62
 
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
@@ -20,7 +20,6 @@ Total Problems: 63
 - [0153 find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [0169 majority-element](https://leetcode.com/problems/majority-element/description/)
 - [0190 reverse-bits](https://leetcode.com/problems/reverse-bits/description/)
-- [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0238 product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [0283 move-zeroes](https://leetcode.com/problems/move-zeroes/description/)
 - [0334 increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)
