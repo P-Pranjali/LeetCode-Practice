@@ -477,14 +477,14 @@
   },
   "contains-duplicate": {
     "id": 217,
-    "status": "needs_review",
-    "language": "java",
+    "status": "understood",
+    "language": "Java",
     "topics": [
       "Array",
       "Hash Table",
       "Sorting"
     ],
-    "updatedAt": "2026-06-11T03:51:22.193Z",
+    "updatedAt": "2026-07-11T04:59:50.240Z",
     "difficulty": "Easy"
   },
   "move-zeroes": {
