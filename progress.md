@@ -4,15 +4,15 @@
 
 ---
 
-## 🟢 Understood (1)
+## 🟢 Understood (2)
 
+- [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [3852 path-existence-queries-in-a-graph-ii](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/)
 
 ---
 
-## 🟡 Needs Review (64)
+## 🟡 Needs Review (63)
 
-- [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
