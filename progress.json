@@ -783,5 +783,17 @@
     ],
     "updatedAt": "2026-07-11T04:53:54.787Z",
     "difficulty": "Easy"
+  },
+  "valid-anagram": {
+    "id": 242,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "updatedAt": "2026-07-11T05:21:10.676Z",
+    "difficulty": "Easy"
   }
 }
