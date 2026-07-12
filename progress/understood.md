@@ -1,8 +1,9 @@
 # Understood
 
-Total Problems: 5
+Total Problems: 6
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
+- [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
