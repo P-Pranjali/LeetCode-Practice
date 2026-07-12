@@ -795,5 +795,22 @@
     ],
     "updatedAt": "2026-07-12T05:32:50.450Z",
     "difficulty": "Easy"
+  },
+  "top-k-frequent-elements": {
+    "id": 347,
+    "status": "needs_review",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ],
+    "updatedAt": "2026-07-12T08:29:06.235Z",
+    "difficulty": "Medium"
   }
 }
