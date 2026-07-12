@@ -453,15 +453,15 @@
   },
   "group-anagrams": {
     "id": 49,
-    "status": "needs_review",
-    "language": "java",
+    "status": "understood",
+    "language": "Java",
     "topics": [
       "Array",
       "Hash Table",
       "String",
       "Sorting"
     ],
-    "updatedAt": "2026-06-11T03:51:00.893Z",
+    "updatedAt": "2026-07-12T05:50:36.875Z",
     "difficulty": "Medium"
   },
   "string-compression": {
