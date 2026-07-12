@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 68
+📚 Total Solved: 69
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🟡 Needs Review (61)
+## 🟡 Needs Review (62)
 
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
@@ -38,6 +38,7 @@
 - [0283 move-zeroes](https://leetcode.com/problems/move-zeroes/description/)
 - [0334 increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)
 - [0345 reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
+- [0347 top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - [0392 is-subsequence](https://leetcode.com/problems/is-subsequence/description/)
 - [0443 string-compression](https://leetcode.com/problems/string-compression/description/)
 - [0448 find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
