@@ -4,9 +4,10 @@
 
 ---
 
-## 🟢 Understood (5)
+## 🟢 Understood (6)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
+- [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
@@ -14,7 +15,7 @@
 
 ---
 
-## 🟡 Needs Review (62)
+## 🟡 Needs Review (61)
 
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
@@ -25,7 +26,6 @@
 - [0015 3sum](https://leetcode.com/problems/3sum/description/)
 - [0033 search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [0048 rotate-image](https://leetcode.com/problems/rotate-image/description/)
-- [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0053 maximum-subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [0061 rotate-list](https://leetcode.com/problems/rotate-list/description/)
 - [0074 search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
