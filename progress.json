@@ -826,5 +826,21 @@
     ],
     "updatedAt": "2026-07-13T03:24:45.458Z",
     "difficulty": "Medium"
+  },
+  "k-closest-points-to-origin": {
+    "id": 1014,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Math",
+      "Divide and Conquer",
+      "Geometry",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "updatedAt": "2026-07-13T03:52:03.135Z",
+    "difficulty": "Medium"
   }
 }
