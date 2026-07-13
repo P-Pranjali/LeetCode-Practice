@@ -812,5 +812,19 @@
     ],
     "updatedAt": "2026-07-12T08:29:06.235Z",
     "difficulty": "Medium"
+  },
+  "kth-largest-element-in-an-array": {
+    "id": 215,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "updatedAt": "2026-07-13T03:24:45.458Z",
+    "difficulty": "Medium"
   }
 }
