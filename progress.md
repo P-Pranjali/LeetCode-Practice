@@ -1,12 +1,13 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 71
+📚 Total Solved: 72
 
 ---
 
-## 🟢 Understood (8)
+## 🟢 Understood (9)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
+- [0014 longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [0215 kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
