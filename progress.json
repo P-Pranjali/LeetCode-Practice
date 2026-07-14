@@ -842,5 +842,17 @@
     ],
     "updatedAt": "2026-07-13T03:52:03.135Z",
     "difficulty": "Medium"
+  },
+  "longest-common-prefix": {
+    "id": 14,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "String",
+      "Trie"
+    ],
+    "updatedAt": "2026-07-14T08:29:13.184Z",
+    "difficulty": "Easy"
   }
 }
