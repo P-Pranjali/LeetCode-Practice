@@ -854,5 +854,16 @@
     ],
     "updatedAt": "2026-07-14T08:29:13.184Z",
     "difficulty": "Easy"
+  },
+  "valid-palindrome": {
+    "id": 125,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "updatedAt": "2026-07-15T05:12:44.729Z",
+    "difficulty": "Easy"
   }
 }
