@@ -865,5 +865,17 @@
     ],
     "updatedAt": "2026-07-15T05:15:37.807Z",
     "difficulty": "Easy"
+  },
+  "two-sum-ii-input-array-is-sorted": {
+    "id": 167,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ],
+    "updatedAt": "2026-07-15T05:31:38.591Z",
+    "difficulty": "Medium"
   }
 }
