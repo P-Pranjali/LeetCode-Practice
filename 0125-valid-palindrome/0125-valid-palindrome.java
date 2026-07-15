@@ -1,8 +1,6 @@
 class Solution {
     public boolean isPalindrome(String s) {
 
-        if(s.equals(" ")) return true;
-
         String str = s.toLowerCase();
 
         int left = 0; 
