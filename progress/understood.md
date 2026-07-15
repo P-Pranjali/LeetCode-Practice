@@ -1,8 +1,9 @@
 # Understood
 
-Total Problems: 11
+Total Problems: 12
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
+- [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [0014 longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
