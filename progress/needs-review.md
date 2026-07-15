@@ -1,8 +1,7 @@
 # Needs Review
 
-Total Problems: 62
+Total Problems: 61
 
-- [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
 - [0009 palindrome-number](https://leetcode.com/problems/palindrome-number/description/)
