@@ -1,16 +1,17 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 73
+📚 Total Solved: 74
 
 ---
 
-## 🟢 Understood (10)
+## 🟢 Understood (11)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0014 longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [0125 valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [0167 two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - [0215 kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
