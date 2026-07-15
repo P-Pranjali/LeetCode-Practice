@@ -858,12 +858,12 @@
   "valid-palindrome": {
     "id": 125,
     "status": "understood",
-    "language": "Java",
+    "language": "java",
     "topics": [
       "Two Pointers",
       "String"
     ],
-    "updatedAt": "2026-07-15T05:12:44.729Z",
+    "updatedAt": "2026-07-15T05:15:37.807Z",
     "difficulty": "Easy"
   }
 }
