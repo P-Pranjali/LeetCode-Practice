@@ -24,14 +24,14 @@
   },
   "longest-substring-without-repeating-characters": {
     "id": 3,
-    "status": "needs_review",
-    "language": "java",
+    "status": "understood",
+    "language": "Java",
     "topics": [
       "Hash Table",
       "String",
       "Sliding Window"
     ],
-    "updatedAt": "2026-06-11T03:44:20.608Z",
+    "updatedAt": "2026-07-15T07:11:40.112Z",
     "difficulty": "Medium"
   },
   "search-in-rotated-sorted-array": {
