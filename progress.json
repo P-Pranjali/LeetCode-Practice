@@ -903,12 +903,12 @@
   "maximum-number-of-vowels-in-a-substring-of-given-length": {
     "id": 1567,
     "status": "understood",
-    "language": "Java",
+    "language": "java",
     "topics": [
       "String",
       "Sliding Window"
     ],
-    "updatedAt": "2026-07-16T10:28:57.964Z",
+    "updatedAt": "2026-07-16T10:50:35.710Z",
     "difficulty": "Medium"
   }
 }
