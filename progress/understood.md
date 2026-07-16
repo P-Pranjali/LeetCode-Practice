@@ -1,6 +1,6 @@
 # Understood
 
-Total Problems: 13
+Total Problems: 14
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -9,6 +9,7 @@ Total Problems: 13
 - [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [0125 valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [0155 min-stack](https://leetcode.com/problems/min-stack/description/)
 - [0167 two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - [0215 kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
