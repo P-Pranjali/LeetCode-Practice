@@ -877,5 +877,16 @@
     ],
     "updatedAt": "2026-07-15T05:31:38.591Z",
     "difficulty": "Medium"
+  },
+  "valid-parentheses": {
+    "id": 20,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "updatedAt": "2026-07-16T05:50:10.909Z",
+    "difficulty": "Easy"
   }
 }
