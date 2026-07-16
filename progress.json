@@ -892,12 +892,12 @@
   "min-stack": {
     "id": 155,
     "status": "understood",
-    "language": "Java",
+    "language": "java",
     "topics": [
       "Stack",
       "Design"
     ],
-    "updatedAt": "2026-07-16T07:10:59.551Z",
+    "updatedAt": "2026-07-16T07:29:13.855Z",
     "difficulty": "Medium"
   }
 }
