@@ -899,5 +899,16 @@
     ],
     "updatedAt": "2026-07-16T07:29:13.855Z",
     "difficulty": "Medium"
+  },
+  "maximum-number-of-vowels-in-a-substring-of-given-length": {
+    "id": 1567,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "String",
+      "Sliding Window"
+    ],
+    "updatedAt": "2026-07-16T10:28:57.964Z",
+    "difficulty": "Medium"
   }
 }
