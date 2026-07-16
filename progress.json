@@ -888,5 +888,16 @@
     ],
     "updatedAt": "2026-07-16T05:50:10.909Z",
     "difficulty": "Easy"
+  },
+  "min-stack": {
+    "id": 155,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Stack",
+      "Design"
+    ],
+    "updatedAt": "2026-07-16T07:10:59.551Z",
+    "difficulty": "Medium"
   }
 }
