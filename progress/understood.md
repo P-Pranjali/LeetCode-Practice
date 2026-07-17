@@ -1,6 +1,6 @@
 # Understood
 
-Total Problems: 15
+Total Problems: 16
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -11,6 +11,7 @@ Total Problems: 15
 - [0125 valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 - [0155 min-stack](https://leetcode.com/problems/min-stack/description/)
 - [0167 two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [0206 reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/description/)
 - [0215 kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
