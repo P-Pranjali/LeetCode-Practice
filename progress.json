@@ -944,5 +944,17 @@
     ],
     "updatedAt": "2026-07-17T04:31:41.303Z",
     "difficulty": "Medium"
+  },
+  "linked-list-cycle": {
+    "id": 141,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "updatedAt": "2026-07-17T08:23:59.208Z",
+    "difficulty": "Easy"
   }
 }
