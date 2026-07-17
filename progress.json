@@ -966,5 +966,16 @@
     ],
     "updatedAt": "2026-07-17T09:02:14.091Z",
     "difficulty": "Easy"
+  },
+  "remove-linked-list-elements": {
+    "id": 203,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "updatedAt": "2026-07-17T10:06:46.455Z",
+    "difficulty": "Easy"
   }
 }
