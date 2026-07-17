@@ -932,5 +932,17 @@
     ],
     "updatedAt": "2026-07-17T03:41:15.041Z",
     "difficulty": "Easy"
+  },
+  "daily-temperatures": {
+    "id": 739,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "updatedAt": "2026-07-17T04:31:08.427Z",
+    "difficulty": "Medium"
   }
 }
