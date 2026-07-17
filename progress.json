@@ -921,5 +921,16 @@
     ],
     "updatedAt": "2026-07-17T03:09:23.434Z",
     "difficulty": "Easy"
+  },
+  "merge-two-sorted-lists": {
+    "id": 21,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "updatedAt": "2026-07-17T03:41:15.041Z",
+    "difficulty": "Easy"
   }
 }
