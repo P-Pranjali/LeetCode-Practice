@@ -1,6 +1,6 @@
 # Needs Review
 
-Total Problems: 61
+Total Problems: 60
 
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
@@ -8,7 +8,6 @@ Total Problems: 61
 - [0011 container-with-most-water](https://leetcode.com/problems/container-with-most-water/description/)
 - [0013 roman-to-integer](https://leetcode.com/problems/roman-to-integer/description/)
 - [0015 3sum](https://leetcode.com/problems/3sum/description/)
-- [0033 search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [0048 rotate-image](https://leetcode.com/problems/rotate-image/description/)
 - [0053 maximum-subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [0061 rotate-list](https://leetcode.com/problems/rotate-list/description/)
