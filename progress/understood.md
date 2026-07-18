@@ -1,6 +1,6 @@
 # Understood
 
-Total Problems: 23
+Total Problems: 24
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -22,6 +22,7 @@ Total Problems: 23
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [0739 daily-temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 - [0792 binary-search](https://leetcode.com/problems/binary-search/description/)
+- [0907 koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
 - [1014 k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [1567 maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 - [3852 path-existence-queries-in-a-graph-ii](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/)
