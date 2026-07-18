@@ -977,5 +977,16 @@
     ],
     "updatedAt": "2026-07-17T10:06:46.455Z",
     "difficulty": "Easy"
+  },
+  "binary-search": {
+    "id": 792,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "updatedAt": "2026-07-18T07:46:41.853Z",
+    "difficulty": "Easy"
   }
 }
