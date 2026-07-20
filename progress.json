@@ -1038,5 +1038,17 @@
     ],
     "updatedAt": "2026-07-20T05:09:35.377Z",
     "difficulty": "Medium"
+  },
+  "binary-tree-level-order-traversal": {
+    "id": 102,
+    "status": "needs_review",
+    "language": "Java",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "updatedAt": "2026-07-20T05:42:05.393Z",
+    "difficulty": "Medium"
   }
 }
