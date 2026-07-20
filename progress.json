@@ -1025,5 +1025,18 @@
     ],
     "updatedAt": "2026-07-20T03:22:55.491Z",
     "difficulty": "Easy"
+  },
+  "validate-binary-search-tree": {
+    "id": 98,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "updatedAt": "2026-07-20T05:09:35.377Z",
+    "difficulty": "Medium"
   }
 }
