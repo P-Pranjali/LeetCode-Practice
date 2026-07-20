@@ -1,23 +1,19 @@
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+ 
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-        int[] answer = new int[2];
+        for(int i=0; i<nums.length;i++){
+            int diff = target - nums[i];
 
-       HashMap<Integer, Integer>  map = new HashMap<>();
+            if(map.containsKey(diff)){   // If diff present in map 
+                return new int[] {map.get(diff), i};  //get its value i. e. index of that No.
+            }
 
-       for(int i = 0; i <nums.length; i++){
-        int secondNumber = target - nums[i];
-
-        if(map.containsKey(secondNumber)){
-
-            answer[0] = i;
-            answer[1] = map.get(secondNumber);
+            map.put(nums[i], i); //If not then store tht no. {as key} & its index {as value} in map.
         }
-        map.put(nums[i], i);
 
-
-       }
-        return answer;
+        return new int[] { -1, -1};
     }
 }
-
