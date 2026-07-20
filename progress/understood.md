@@ -1,6 +1,6 @@
 # Understood
 
-Total Problems: 24
+Total Problems: 25
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -19,6 +19,7 @@ Total Problems: 24
 - [0206 reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/description/)
 - [0215 kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [0226 invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [0739 daily-temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 - [0792 binary-search](https://leetcode.com/problems/binary-search/description/)
