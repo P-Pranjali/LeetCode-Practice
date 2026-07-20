@@ -1050,5 +1050,16 @@
     ],
     "updatedAt": "2026-07-20T05:42:05.393Z",
     "difficulty": "Medium"
+  },
+  "remove-element": {
+    "id": 27,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "updatedAt": "2026-07-20T12:05:55.321Z",
+    "difficulty": "Easy"
   }
 }
