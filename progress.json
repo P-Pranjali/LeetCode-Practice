@@ -2,12 +2,12 @@
   "two-sum": {
     "id": 1,
     "status": "understood",
-    "language": "java",
+    "language": "Java",
     "topics": [
       "Array",
       "Hash Table"
     ],
-    "updatedAt": "2026-07-11T04:31:44.303Z",
+    "updatedAt": "2026-07-20T07:35:30.430Z",
     "difficulty": "Easy"
   },
   "median-of-two-sorted-arrays": {
