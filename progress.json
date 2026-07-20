@@ -1012,5 +1012,18 @@
     ],
     "updatedAt": "2026-07-20T03:07:23.607Z",
     "difficulty": "Easy"
+  },
+  "maximum-depth-of-binary-tree": {
+    "id": 104,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "updatedAt": "2026-07-20T03:22:55.491Z",
+    "difficulty": "Easy"
   }
 }
