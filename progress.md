@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 90
+📚 Total Solved: 91
 
 ---
 
@@ -103,6 +103,7 @@
 
 ---
 
-## 🔴 Not Understood (1)
+## 🔴 Not Understood (2)
 
+- [0078 subsets](https://leetcode.com/problems/subsets/description/)
 - [4136 concatenate-non-zero-digits-and-multiply-by-sum-ii](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/description/)
