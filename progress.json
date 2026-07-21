@@ -1061,5 +1061,17 @@
     ],
     "updatedAt": "2026-07-20T12:13:40.978Z",
     "difficulty": "Easy"
+  },
+  "subsets": {
+    "id": 78,
+    "status": "not_understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "updatedAt": "2026-07-21T08:03:41.633Z",
+    "difficulty": "Medium"
   }
 }
