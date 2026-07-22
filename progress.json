@@ -1073,5 +1073,16 @@
     ],
     "updatedAt": "2026-07-21T08:03:41.633Z",
     "difficulty": "Medium"
+  },
+  "combination-sum": {
+    "id": 39,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "updatedAt": "2026-07-22T03:57:38.512Z",
+    "difficulty": "Medium"
   }
 }
