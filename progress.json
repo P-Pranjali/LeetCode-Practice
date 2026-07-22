@@ -1084,5 +1084,19 @@
     ],
     "updatedAt": "2026-07-22T03:57:38.512Z",
     "difficulty": "Medium"
+  },
+  "number-of-islands": {
+    "id": 200,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ],
+    "updatedAt": "2026-07-22T13:37:37.623Z",
+    "difficulty": "Medium"
   }
 }
