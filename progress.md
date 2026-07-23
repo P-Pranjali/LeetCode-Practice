@@ -1,10 +1,10 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 94
+📚 Total Solved: 95
 
 ---
 
-## 🟢 Understood (30)
+## 🟢 Understood (31)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -15,6 +15,7 @@
 - [0033 search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [0039 combination-sum](https://leetcode.com/problems/combination-sum/description/)
 - [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
+- [0070 climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/)
 - [0083 remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 - [0098 validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [0104 maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
