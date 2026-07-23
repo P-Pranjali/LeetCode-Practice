@@ -1111,5 +1111,17 @@
     ],
     "updatedAt": "2026-07-23T05:07:53.605Z",
     "difficulty": "Medium"
+  },
+  "climbing-stairs": {
+    "id": 70,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "updatedAt": "2026-07-23T05:43:39.207Z",
+    "difficulty": "Easy"
   }
 }
