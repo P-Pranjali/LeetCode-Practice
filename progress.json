@@ -1098,5 +1098,18 @@
     ],
     "updatedAt": "2026-07-22T13:37:37.623Z",
     "difficulty": "Medium"
+  },
+  "course-schedule": {
+    "id": 207,
+    "status": "not_understood",
+    "language": "Java",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ],
+    "updatedAt": "2026-07-23T05:07:53.605Z",
+    "difficulty": "Medium"
   }
 }
