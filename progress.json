@@ -1123,5 +1123,16 @@
     ],
     "updatedAt": "2026-07-23T05:43:39.207Z",
     "difficulty": "Easy"
+  },
+  "running-sum-of-1d-array": {
+    "id": 1603,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "updatedAt": "2026-07-24T10:10:15.321Z",
+    "difficulty": "Easy"
   }
 }
