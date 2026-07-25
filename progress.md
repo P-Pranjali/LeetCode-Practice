@@ -1,10 +1,10 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 96
+📚 Total Solved: 97
 
 ---
 
-## 🟢 Understood (32)
+## 🟢 Understood (33)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -31,6 +31,7 @@
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [0226 invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
+- [0349 intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 - [0739 daily-temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 - [0792 binary-search](https://leetcode.com/problems/binary-search/description/)
 - [0907 koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
