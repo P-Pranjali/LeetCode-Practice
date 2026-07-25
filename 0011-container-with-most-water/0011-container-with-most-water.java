@@ -6,10 +6,10 @@ class Solution {
 
      while(left<right){
 
-        int h = Math.min(height[left], height[right]);
+        int hight = Math.min(height[left], height[right]);
         int width = right - left;
 
-        int area = h * width;
+        int area = hight * width;
 
         maxWater = Math.max(maxWater, area);
      
