@@ -1148,5 +1148,16 @@
     ],
     "updatedAt": "2026-07-25T06:35:13.634Z",
     "difficulty": "Easy"
+  },
+  "remove-duplicates-from-sorted-array": {
+    "id": 26,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "updatedAt": "2026-07-25T06:55:12.174Z",
+    "difficulty": "Easy"
   }
 }
