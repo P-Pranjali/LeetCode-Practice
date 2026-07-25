@@ -1134,5 +1134,19 @@
     ],
     "updatedAt": "2026-07-24T10:10:15.321Z",
     "difficulty": "Easy"
+  },
+  "intersection-of-two-arrays": {
+    "id": 349,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "updatedAt": "2026-07-25T06:35:13.634Z",
+    "difficulty": "Easy"
   }
 }
