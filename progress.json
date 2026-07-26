@@ -1159,5 +1159,18 @@
     ],
     "updatedAt": "2026-07-25T06:55:12.174Z",
     "difficulty": "Easy"
+  },
+  "permutation-in-string": {
+    "id": 567,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "updatedAt": "2026-07-26T15:15:25.981Z",
+    "difficulty": "Medium"
   }
 }
