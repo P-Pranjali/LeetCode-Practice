@@ -337,13 +337,13 @@
   },
   "maximum-average-subarray-i": {
     "id": 643,
-    "status": "needs_review",
-    "language": "java",
+    "status": "understood",
+    "language": "Java",
     "topics": [
       "Array",
       "Sliding Window"
     ],
-    "updatedAt": "2026-06-11T03:49:11.822Z",
+    "updatedAt": "2026-07-26T13:15:34.633Z",
     "difficulty": "Easy"
   },
   "max-number-of-k-sum-pairs": {
