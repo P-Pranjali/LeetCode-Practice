@@ -13,9 +13,10 @@ class Solution {
         }
         if(isMatched(mapS1, mapS2)) return true;
 
-        for(int i = 1; i <= s2.length() - s1.length(); i++){
-            mapS2[s2.charAt(i-1) - 'a']--;
-            mapS2[(s2.charAt(i + s1.length() - 1) - 'a')]++;
+        for(int right = 1; right <= s2.length() - s1.length(); right++){
+
+            mapS2[s2.charAt(right-1) - 'a']--; //removing left char from window
+            mapS2[(s2.charAt(right + s1.length() - 1) - 'a')]++; //Adding right char in window
 
             if(isMatched(mapS1, mapS2)) return true;
 
@@ -23,7 +24,6 @@ class Solution {
         
         return false;
 }
-
         private boolean isMatched(int[] map1, int[] map2){
             for(int i = 0; i < 26; i++){
 
