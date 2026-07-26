@@ -4,7 +4,7 @@
 
 ---
 
-## 🟢 Understood (35)
+## 🟢 Understood (36)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -34,6 +34,7 @@
 - [0226 invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [0242 valid-anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [0349 intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 - [0739 daily-temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 - [0792 binary-search](https://leetcode.com/problems/binary-search/description/)
 - [0907 koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
@@ -44,7 +45,7 @@
 
 ---
 
-## 🟡 Needs Review (60)
+## 🟡 Needs Review (59)
 
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
@@ -71,7 +72,6 @@
 - [0448 find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 - [0485 max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 - [0605 can-place-flowers](https://leetcode.com/problems/can-place-flowers/description/)
-- [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 - [0645 set-mismatch](https://leetcode.com/problems/set-mismatch/description/)
 - [0804 rotated-digits](https://leetcode.com/problems/rotated-digits/description/)
 - [0812 rotate-string](https://leetcode.com/problems/rotate-string/description/)
