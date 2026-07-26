@@ -1163,14 +1163,14 @@
   "permutation-in-string": {
     "id": 567,
     "status": "understood",
-    "language": "Java",
+    "language": "java",
     "topics": [
       "Hash Table",
       "Two Pointers",
       "String",
       "Sliding Window"
     ],
-    "updatedAt": "2026-07-26T15:15:25.981Z",
+    "updatedAt": "2026-07-26T15:23:59.841Z",
     "difficulty": "Medium"
   }
 }
