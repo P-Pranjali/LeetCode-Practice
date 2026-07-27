@@ -1172,5 +1172,16 @@
     ],
     "updatedAt": "2026-07-26T15:23:59.841Z",
     "difficulty": "Medium"
+  },
+  "search-insert-position": {
+    "id": 35,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "updatedAt": "2026-07-27T03:50:40.590Z",
+    "difficulty": "Easy"
   }
 }
