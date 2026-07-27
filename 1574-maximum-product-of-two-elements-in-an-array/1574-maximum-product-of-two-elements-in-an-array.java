@@ -1,0 +1,40 @@
+// class Solution {
+//     public int maxProduct(int[] nums) {
+
+//         int max = Integer.MIN_VALUE;
+//         int product = 0;
+
+//         //int i = 0; int j = 1;
+
+// for(int i = 0; i < nums.length; i++){
+//     for(int j = 1; j < nums.length;j ++){
+//        product = (nums[i] - 1) * (nums[j] - 1);
+
+//        max = Math.max(product, max);
+//       }}
+//         return max;
+//     }
+// }
+
+class Solution {
+    public int maxProduct(int[] nums) {
+
+        //int max = Integer.MIN_VALUE;
+        //int product = 0;
+
+     int largest = Integer.MIN_VALUE;
+     int secondLargest = Integer.MIN_VALUE;
+
+        for(int i = 0; i < nums.length; i++){
+        
+            if(nums[i] > largest) { 
+                secondLargest = largest; 
+                largest = nums[i];
+                
+            } else if (nums[i] > secondLargest){
+                secondLargest = nums[i];
+            }
+        }
+        return (largest-1) * (secondLargest-1);
+    }
+}
