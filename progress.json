@@ -1183,5 +1183,16 @@
     ],
     "updatedAt": "2026-07-27T03:50:40.590Z",
     "difficulty": "Easy"
+  },
+  "first-bad-version": {
+    "id": 278,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Binary Search",
+      "Interactive"
+    ],
+    "updatedAt": "2026-07-27T04:05:50.765Z",
+    "difficulty": "Easy"
   }
 }
