@@ -1198,13 +1198,13 @@
   "maximum-product-of-two-elements-in-an-array": {
     "id": 1574,
     "status": "understood",
-    "language": "Java",
+    "language": "java",
     "topics": [
       "Array",
       "Sorting",
       "Heap (Priority Queue)"
     ],
-    "updatedAt": "2026-07-27T09:49:55.910Z",
+    "updatedAt": "2026-07-27T09:50:26.936Z",
     "difficulty": "Easy"
   }
 }
