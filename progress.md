@@ -1,10 +1,10 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 101
+📚 Total Solved: 102
 
 ---
 
-## 🟢 Understood (39)
+## 🟢 Understood (40)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -43,6 +43,7 @@
 - [0907 koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
 - [1014 k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [1567 maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
+- [1574 maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
 - [1603 running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 - [3852 path-existence-queries-in-a-graph-ii](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/)
 
