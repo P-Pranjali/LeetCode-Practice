@@ -1194,5 +1194,17 @@
     ],
     "updatedAt": "2026-07-27T09:10:53.488Z",
     "difficulty": "Easy"
+  },
+  "maximum-product-of-two-elements-in-an-array": {
+    "id": 1574,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ],
+    "updatedAt": "2026-07-27T09:49:55.910Z",
+    "difficulty": "Easy"
   }
 }
