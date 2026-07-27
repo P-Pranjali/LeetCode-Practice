@@ -1,6 +1,12 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int left = 1;
+
+        // int right = piles[0];
+        // for(int pile : piles){
+        //     right = Matn.max(pile, right);
+        // }
+
         int right = Arrays.stream(piles).max().getAsInt(); // what's the max possible speed we'd ever need?
         int answer = right; // fallback
 
