@@ -10,13 +10,12 @@
  */
 class Solution {
 
-       static{
+       static{                             //Use Static block just to warm up JVM to reduce runtime
         ListNode n = new ListNode(0);
         for(int i=0;i<500;i++)
             isPalindrome(n);
     }
-    public static boolean isPalindrome(ListNode head) {
-
+    public static boolean isPalindrome(ListNode head) {   //Make method static so static block can use
         ListNode slow = head;
         ListNode fast = head;
         ListNode prev = null;
@@ -41,8 +40,9 @@ class Solution {
       return true; 
     }
 
-    private static  ListNode reverse(ListNode slow){
-        ListNode prev = null;
+    private static  ListNode reverse(ListNode slow){    // as Static method or block can not use referance of non static
+
+        ListNode prev = null;   
         ListNode curr = slow;
 
         while(curr != null){
