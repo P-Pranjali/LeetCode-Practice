@@ -1206,5 +1206,16 @@
     ],
     "updatedAt": "2026-07-27T09:50:26.936Z",
     "difficulty": "Easy"
+  },
+  "middle-of-the-linked-list": {
+    "id": 908,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "updatedAt": "2026-07-28T05:00:34.570Z",
+    "difficulty": "Easy"
   }
 }
