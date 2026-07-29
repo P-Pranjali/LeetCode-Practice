@@ -1230,5 +1230,17 @@
     ],
     "updatedAt": "2026-07-28T06:35:12.788Z",
     "difficulty": "Easy"
+  },
+  "implement-queue-using-stacks": {
+    "id": 232,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "updatedAt": "2026-07-29T09:43:45.226Z",
+    "difficulty": "Easy"
   }
 }
