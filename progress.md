@@ -1,10 +1,10 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 105
+📚 Total Solved: 106
 
 ---
 
-## 🟢 Understood (43)
+## 🟢 Understood (44)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -32,6 +32,7 @@
 - [0206 reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/description/)
 - [0215 kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 - [0217 contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [0225 implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
 - [0226 invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [0232 implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 - [0234 palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/description/)
