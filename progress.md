@@ -1,10 +1,10 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 106
+📚 Total Solved: 107
 
 ---
 
-## 🟢 Understood (44)
+## 🟢 Understood (45)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -21,6 +21,7 @@
 - [0070 climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/)
 - [0083 remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 - [0098 validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- [0100 same-tree](https://leetcode.com/problems/same-tree/description/)
 - [0104 maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [0125 valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
