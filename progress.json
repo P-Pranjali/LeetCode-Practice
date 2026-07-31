@@ -1254,5 +1254,18 @@
     ],
     "updatedAt": "2026-07-30T03:46:22.345Z",
     "difficulty": "Easy"
+  },
+  "same-tree": {
+    "id": 100,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "updatedAt": "2026-07-31T05:38:10.862Z",
+    "difficulty": "Easy"
   }
 }
