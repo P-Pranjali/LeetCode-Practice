@@ -1267,5 +1267,15 @@
     ],
     "updatedAt": "2026-07-31T05:38:10.862Z",
     "difficulty": "Easy"
+  },
+  "length-of-last-word": {
+    "id": 58,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "String"
+    ],
+    "updatedAt": "2026-08-02T13:31:25.177Z",
+    "difficulty": "Easy"
   }
 }
