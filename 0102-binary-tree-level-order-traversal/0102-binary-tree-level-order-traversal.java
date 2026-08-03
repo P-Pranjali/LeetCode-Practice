@@ -1,19 +1,24 @@
 class Solution {
-    public int strStr(String haystack, String needle) {
+    public int[] plusOne(int[] digits) {
 
-        int m = haystack.length();
-        int n = needle.length();
+        //int i = 0;
+for(int i = digits.length - 1; i >= 0; i--){
 
-        for(int i = 0; i <= m - n; i++){
-            int j;
-           
-            for( j = 0; j < n; j++){
+    digits[i]++;
+        if(digits[i] < 10){
 
-                if(haystack.charAt(i + j) != needle.charAt(j)) break;
-            }
-                if(j == n) return i;
-            }
+            return digits;
+        }
+    else{
+        digits[i] = 0;
+    }
+}
+
+     int[] result = new int[digits.length + 1];
+
+        result[0] = 1;
+        return result;
+
         
-        return -1;
     }
 }
