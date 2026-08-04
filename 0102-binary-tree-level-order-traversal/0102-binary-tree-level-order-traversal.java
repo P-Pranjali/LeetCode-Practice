@@ -1,24 +1,30 @@
 class Solution {
-    public int[] plusOne(int[] digits) {
+    public String addBinary(String a, String b) {
 
-        //int i = 0;
-for(int i = digits.length - 1; i >= 0; i--){
+        int i = a.length() - 1;
+        int j = b.length() - 1;
+        int carry = 0;
 
-    digits[i]++;
-        if(digits[i] < 10){
+        StringBuilder sb = new StringBuilder();
 
-            return digits;
+        while (i >= 0 || j >= 0 || carry != 0) {
+
+            int sum = carry;
+
+            if (i >= 0) {
+                sum += a.charAt(i) - '0'; // Convert '0'/'1' to 0/1
+                i--;
+            }
+
+            if (j >= 0) {
+                sum += b.charAt(j) - '0'; // Convert '0'/'1' to 0/1
+                j--;
+            }
+
+            sb.append(sum % 2); // Current binary digit
+            carry = sum / 2;    // Carry for next iteration
         }
-    else{
-        digits[i] = 0;
-    }
-}
 
-     int[] result = new int[digits.length + 1];
-
-        result[0] = 1;
-        return result;
-
-        
+        return sb.reverse().toString();
     }
 }
