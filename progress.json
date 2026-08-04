@@ -1041,14 +1041,14 @@
   },
   "binary-tree-level-order-traversal": {
     "id": 102,
-    "status": "understood",
+    "status": "needs_review",
     "language": "java",
     "topics": [
       "Tree",
       "Breadth-First Search",
       "Binary Tree"
     ],
-    "updatedAt": "2026-08-03T15:12:49.043Z",
+    "updatedAt": "2026-08-04T14:39:39.106Z",
     "difficulty": "Medium"
   },
   "remove-element": {
