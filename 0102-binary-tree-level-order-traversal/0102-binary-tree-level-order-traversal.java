@@ -1,30 +1,26 @@
 class Solution {
-    public String addBinary(String a, String b) {
+    public int mySqrt(int x) {
+        if(x == 0) return 0;
 
-        int i = a.length() - 1;
-        int j = b.length() - 1;
-        int carry = 0;
+        int left = 1;
+        int right = x;
+        int ans = 0;
 
-        StringBuilder sb = new StringBuilder();
+        while (left <= right) {
 
-        while (i >= 0 || j >= 0 || carry != 0) {
+            int mid = left + (right - left) / 2;
 
-            int sum = carry;
+           if( x / mid > mid){
+            left = mid + 1;
+            ans = mid;
+           }else if(x /  mid  < mid){
+            right = mid - 1;
+           }else{
+            return mid;
+           }
 
-            if (i >= 0) {
-                sum += a.charAt(i) - '0'; // Convert '0'/'1' to 0/1
-                i--;
-            }
-
-            if (j >= 0) {
-                sum += b.charAt(j) - '0'; // Convert '0'/'1' to 0/1
-                j--;
-            }
-
-            sb.append(sum % 2); // Current binary digit
-            carry = sum / 2;    // Carry for next iteration
         }
 
-        return sb.reverse().toString();
+        return ans;
     }
 }
