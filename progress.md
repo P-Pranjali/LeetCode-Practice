@@ -4,7 +4,7 @@
 
 ---
 
-## 🟢 Understood (46)
+## 🟢 Understood (47)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -23,6 +23,7 @@
 - [0083 remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 - [0098 validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [0100 same-tree](https://leetcode.com/problems/same-tree/description/)
+- [0102 binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 - [0104 maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 - [0121 best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [0125 valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)
@@ -55,7 +56,7 @@
 
 ---
 
-## 🟡 Needs Review (59)
+## 🟡 Needs Review (58)
 
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
@@ -66,7 +67,6 @@
 - [0053 maximum-subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [0061 rotate-list](https://leetcode.com/problems/rotate-list/description/)
 - [0074 search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
-- [0102 binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 - [0150 evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - [0151 reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 - [0153 find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
