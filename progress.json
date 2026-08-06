@@ -1277,5 +1277,16 @@
     ],
     "updatedAt": "2026-08-02T13:31:25.177Z",
     "difficulty": "Easy"
+  },
+  "last-stone-weight": {
+    "id": 1127,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ],
+    "updatedAt": "2026-08-06T15:19:01.627Z",
+    "difficulty": "Easy"
   }
 }
