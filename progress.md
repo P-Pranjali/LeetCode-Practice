@@ -4,7 +4,7 @@
 
 ---
 
-## 🟢 Understood (48)
+## 🟢 Understood (49)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -20,6 +20,7 @@
 - [0049 group-anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [0058 length-of-last-word](https://leetcode.com/problems/length-of-last-word/description/)
 - [0070 climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- [0078 subsets](https://leetcode.com/problems/subsets/description/)
 - [0083 remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 - [0098 validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [0100 same-tree](https://leetcode.com/problems/same-tree/description/)
@@ -120,8 +121,7 @@
 
 ---
 
-## 🔴 Not Understood (3)
+## 🔴 Not Understood (2)
 
-- [0078 subsets](https://leetcode.com/problems/subsets/description/)
 - [0207 course-schedule](https://leetcode.com/problems/course-schedule/description/)
 - [4136 concatenate-non-zero-digits-and-multiply-by-sum-ii](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/description/)
