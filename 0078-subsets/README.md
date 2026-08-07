@@ -1,5 +1,5 @@
 
-🔴 Not Understood
+🟢 Understood
 
 ---
 
