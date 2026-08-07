@@ -1288,5 +1288,16 @@
     ],
     "updatedAt": "2026-08-06T15:19:01.627Z",
     "difficulty": "Easy"
+  },
+  "permutations": {
+    "id": 46,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "updatedAt": "2026-08-07T05:19:58.090Z",
+    "difficulty": "Medium"
   }
 }
