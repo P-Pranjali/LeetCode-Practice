@@ -1299,5 +1299,17 @@
     ],
     "updatedAt": "2026-08-07T05:19:58.090Z",
     "difficulty": "Medium"
+  },
+  "letter-combinations-of-a-phone-number": {
+    "id": 17,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "updatedAt": "2026-08-08T06:48:08.913Z",
+    "difficulty": "Medium"
   }
 }
