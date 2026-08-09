@@ -1311,5 +1311,18 @@
     ],
     "updatedAt": "2026-08-08T06:48:08.913Z",
     "difficulty": "Medium"
+  },
+  "generate-parentheses": {
+    "id": 22,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bracket Sequences"
+    ],
+    "updatedAt": "2026-08-09T11:50:00.127Z",
+    "difficulty": "Medium"
   }
 }
