@@ -1,10 +1,10 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 111
+📚 Total Solved: 112
 
 ---
 
-## 🟢 Understood (51)
+## 🟢 Understood (52)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -13,6 +13,7 @@
 - [0017 letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 - [0020 valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 - [0021 merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [0022 generate-parentheses](https://leetcode.com/problems/generate-parentheses/description/)
 - [0026 remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 - [0027 remove-element](https://leetcode.com/problems/remove-element/description/)
 - [0033 search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
