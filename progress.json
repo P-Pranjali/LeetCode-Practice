@@ -1324,5 +1324,16 @@
     ],
     "updatedAt": "2026-08-09T11:50:00.127Z",
     "difficulty": "Medium"
+  },
+  "house-robber": {
+    "id": 198,
+    "status": "needs_review",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "updatedAt": "2026-08-10T06:30:41.278Z",
+    "difficulty": "Medium"
   }
 }
