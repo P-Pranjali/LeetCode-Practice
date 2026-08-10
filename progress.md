@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 112
+📚 Total Solved: 113
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🟡 Needs Review (58)
+## 🟡 Needs Review (59)
 
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
@@ -77,6 +77,7 @@
 - [0153 find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [0169 majority-element](https://leetcode.com/problems/majority-element/description/)
 - [0190 reverse-bits](https://leetcode.com/problems/reverse-bits/description/)
+- [0198 house-robber](https://leetcode.com/problems/house-robber/description/)
 - [0238 product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [0283 move-zeroes](https://leetcode.com/problems/move-zeroes/description/)
 - [0334 increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)
