@@ -1335,5 +1335,19 @@
     ],
     "updatedAt": "2026-08-10T06:30:41.278Z",
     "difficulty": "Medium"
+  },
+  "coin-change": {
+    "id": 322,
+    "status": "needs_review",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ],
+    "updatedAt": "2026-08-11T12:34:47.434Z",
+    "difficulty": "Medium"
   }
 }
