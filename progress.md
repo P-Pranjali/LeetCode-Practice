@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 113
+📚 Total Solved: 114
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🟡 Needs Review (59)
+## 🟡 Needs Review (60)
 
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
@@ -80,6 +80,7 @@
 - [0198 house-robber](https://leetcode.com/problems/house-robber/description/)
 - [0238 product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [0283 move-zeroes](https://leetcode.com/problems/move-zeroes/description/)
+- [0322 coin-change](https://leetcode.com/problems/coin-change/description/)
 - [0334 increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)
 - [0345 reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 - [0347 top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
