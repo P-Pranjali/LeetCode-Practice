@@ -1349,5 +1349,18 @@
     ],
     "updatedAt": "2026-08-11T12:34:47.434Z",
     "difficulty": "Medium"
+  },
+  "flood-fill": {
+    "id": 733,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "updatedAt": "2026-08-12T04:03:13.158Z",
+    "difficulty": "Easy"
   }
 }
