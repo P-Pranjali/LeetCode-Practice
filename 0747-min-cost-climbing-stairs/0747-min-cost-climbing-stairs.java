@@ -1,36 +1,21 @@
 class Solution {
+    public int minCostClimbingStairs(int[] cost) {
 
-    //   Srting open = "(";
-    //     String close = ")";
+        int n = cost.length;
 
-    List<String> result = new ArrayList<>();
-    StringBuilder current = new StringBuilder();
+        // dp[i] = minimum cost to reach step i
+        int[] dp = new int[n + 1];
 
+        dp[0] = 0;
+        dp[1] = 0;
 
-    public List<String> generateParenthesis(int n) {
-        backtrack(0, 0, n);
-        return result;
-        
-    }
-
-    private void backtrack(int open, int close, int n){
-
-        if(open == n && close == n){
-            result.add(current.toString());
-            return;
+        for (int i = 2; i <= n; i++) {
+            dp[i] = Math.min(
+                dp[i - 1] + cost[i - 1],
+                dp[i - 2] + cost[i - 2]
+            );
         }
 
-        if(open < n){
-            current.append("(");
-        backtrack(open + 1, close, n);
-        current.deleteCharAt(current.length() -1);
-        }
-
-        if(close < open){
-            current.append(")");
-            backtrack(open, close + 1, n);
-            current.deleteCharAt(current.length() - 1);
-        }
-
+        return dp[n];
     }
 }
