@@ -1,10 +1,10 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 115
+📚 Total Solved: 116
 
 ---
 
-## 🟢 Understood (53)
+## 🟢 Understood (54)
 
 - [0001 two-sum](https://leetcode.com/problems/two-sum/description/)
 - [0003 longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -50,6 +50,7 @@
 - [0643 maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 - [0733 flood-fill](https://leetcode.com/problems/flood-fill/description/)
 - [0739 daily-temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+- [0747 min-cost-climbing-stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 - [0792 binary-search](https://leetcode.com/problems/binary-search/description/)
 - [0907 koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
 - [0908 middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/description/)
