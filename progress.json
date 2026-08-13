@@ -1362,5 +1362,16 @@
     ],
     "updatedAt": "2026-08-12T04:03:13.158Z",
     "difficulty": "Easy"
+  },
+  "min-cost-climbing-stairs": {
+    "id": 747,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "updatedAt": "2026-08-13T13:50:07.962Z",
+    "difficulty": "Easy"
   }
 }
