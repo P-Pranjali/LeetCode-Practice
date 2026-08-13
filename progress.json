@@ -1366,12 +1366,12 @@
   "min-cost-climbing-stairs": {
     "id": 747,
     "status": "understood",
-    "language": "Java",
+    "language": "java",
     "topics": [
       "Array",
       "Dynamic Programming"
     ],
-    "updatedAt": "2026-08-13T13:50:07.962Z",
+    "updatedAt": "2026-08-13T13:51:25.461Z",
     "difficulty": "Easy"
   }
 }
