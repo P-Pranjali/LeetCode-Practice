@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 116
+📚 Total Solved: 117
 
 ---
 
@@ -63,8 +63,9 @@
 
 ---
 
-## 🟡 Needs Review (60)
+## 🟡 Needs Review (61)
 
+- [0002 add-two-numbers](https://leetcode.com/problems/add-two-numbers/description/)
 - [0004 median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [0007 reverse-integer](https://leetcode.com/problems/reverse-integer/description/)
 - [0009 palindrome-number](https://leetcode.com/problems/palindrome-number/description/)
