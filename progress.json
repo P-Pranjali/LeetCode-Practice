@@ -1373,5 +1373,17 @@
     ],
     "updatedAt": "2026-08-13T13:53:51.208Z",
     "difficulty": "Easy"
+  },
+  "add-two-numbers": {
+    "id": 2,
+    "status": "needs_review",
+    "language": "Java",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "updatedAt": "2026-08-16T15:05:44.990Z",
+    "difficulty": "Medium"
   }
 }
