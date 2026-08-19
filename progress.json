@@ -1385,5 +1385,17 @@
     ],
     "updatedAt": "2026-08-16T15:05:44.990Z",
     "difficulty": "Medium"
+  },
+  "multiply-strings": {
+    "id": 43,
+    "status": "not_understood",
+    "language": "Java",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "updatedAt": "2026-08-19T14:22:16.011Z",
+    "difficulty": "Medium"
   }
 }
