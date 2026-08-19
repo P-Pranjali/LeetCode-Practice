@@ -1,6 +1,6 @@
 # 📊 LeetGit Progress
 
-📚 Total Solved: 117
+📚 Total Solved: 118
 
 ---
 
@@ -129,7 +129,8 @@
 
 ---
 
-## 🔴 Not Understood (2)
+## 🔴 Not Understood (3)
 
+- [0043 multiply-strings](https://leetcode.com/problems/multiply-strings/description/)
 - [0207 course-schedule](https://leetcode.com/problems/course-schedule/description/)
 - [4136 concatenate-non-zero-digits-and-multiply-by-sum-ii](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/description/)
